@@ -1,0 +1,13 @@
+# Eksterne hjelpefunksjoner som maa kjores gjennom MatLab kommandovindu.
+
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperAddLoopConnections.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperAddNewKeyFrame.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperCheckLoopClosure.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperCreateNewMapPoints.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperLocalBundleAdjustment.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperORBFeatureExtractorFunction.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperTrackLastKeyFrame.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperTrackLastKeyFrame.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperTrackLastKeyFrame.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperVisualizeMatchedFeatures.m')
+openExample('vision/MonocularVisualSimultaneousLocalizationAndMappingExample','supportingFile','helperVisualizeMotionAndStructure.m')
